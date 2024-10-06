@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "tommylbro-s-Ukulele-Songbook-website",
+			"path": "."
+		},
+		{
+			"name": "codespaces-blank",
+			"path": "../../home/vscode/codespaces-blank"
+		}
+	],
+	"settings": {
+		"editor.formatOnType": true
+	},
+	"launch": {
+		"configurations": []
+	}
+}
